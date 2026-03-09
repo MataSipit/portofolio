@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Website Kantor Camat",
+    "image": "images/project1.jpg",
+    "desc": "Website pemerintahan dengan sistem berita dan dashboard admin.",
+    "github": "#",
+    "demo": "#"
+  },
+  {
+    "title": "Secure Login System",
+    "image": "images/project2.jpg",
+    "desc": "Sistem login dengan password hashing dan session protection.",
+    "github": "#",
+    "demo": "#"
+  },
+  {
+    "title": "IoT Lamp Control",
+    "image": "images/project3.jpg",
+    "desc": "Kontrol lampu otomatis menggunakan ESP32.",
+    "github": "#",
+    "demo": "#"
+  }
+]
